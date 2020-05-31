@@ -1,0 +1,15 @@
+# PyCharm files
+.idea
+.idea/*
+
+# Virtual Environment
+venv
+venv/*
+
+# Python cache
+__pycache__
+__pycache__/*
+
+# Keys
+secret.json
+
